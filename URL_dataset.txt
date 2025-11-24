@@ -1,0 +1,6 @@
+https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset?select=rating.csv
+
+https://www.kaggle.com/datasets/faizadani/european-tour-destinations-dataset/data
+
+
+https://github.com/EdwinMD/sistema_recomendacion.git

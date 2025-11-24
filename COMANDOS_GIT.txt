@@ -1,0 +1,8 @@
+git init
+git status
+git add.
+git status
+git commit -m "subir archivos"
+git status
+git remote add origin https://github.com/EdwinMD/sistema_recomendacion.git
+git push -u origin main
