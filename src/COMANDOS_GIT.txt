@@ -1,13 +1,16 @@
 
-
+///SUBIR DESDE CERO
 git init
+git pull origin main --allow-unrelated-histories
 git add.
 git branch
 git branch -M main
-git pull origin main --allow-unrelated-histories
 git commit -m "subir archivos"
 git status
 git remote add origin https://github.com/EdwinMD/sistema_recomendacion.git
 git push -u origin main
 
-
+// SUBIR SOLO LOS CAMBIOS
+git add .
+git commit -m "Descripción de los cambios"
+git push origin main
